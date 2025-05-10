@@ -40,6 +40,6 @@ public class MochilaMemorizacion {
         }
 
         int resultado = mochila(valores, pesos, capacidad, n);
-        System.out.println("Valor máximo en la mochila:  " + resultado);
+        System.out.println("Valor máximo en la mochila: " + resultado);
     }
 }
